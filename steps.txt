@@ -1,0 +1,2 @@
+npm install react-native-alarm-notification --save --legacy-peer-deps
+npm audit fix --force
